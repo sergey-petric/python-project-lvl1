@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: my-step
         run: 
-	  pip install poetry
-	  make lint
+          pip install poetry
+          make lint
 
